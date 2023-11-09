@@ -1,9 +1,10 @@
 # Skill Assisessment-Handwritten Digit Recognition using MLP
 ## Aim:
-       To Recognize the Handwritten Digits using Multilayer perceptron.
+To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
+
 ## Theory:
 
 1. **Introduction:**
